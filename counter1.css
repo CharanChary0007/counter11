@@ -1,0 +1,24 @@
+html,body {
+    margin: 0;
+    padding: 0;
+    
+}
+        button{
+    border:none;
+    padding-top:10px;
+    padding-bottom: 10px;
+    color:white;
+    font-weight:bold;
+ 
+    border-radius:5px;
+    
+}
+#increment-button{
+       background: darkred;
+}
+#save-btn{
+       background: darkgreen;
+}
+#total-btn{
+    background: rgb(100, 85, 0);
+}
